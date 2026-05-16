@@ -1,2 +1,2 @@
 message = "oi"
-print('hello git e VSCode')
+print('message')
