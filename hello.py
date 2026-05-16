@@ -1,2 +1,1 @@
-message = "oi"
-print('message')
+message = "Hello git"
