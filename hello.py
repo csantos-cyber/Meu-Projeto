@@ -1,1 +1,1 @@
-message = "Hello git"
+print ('Olá GitHub!')
